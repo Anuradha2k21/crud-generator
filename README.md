@@ -68,4 +68,15 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 this does not support laravel 11, so laravel 10 used
 might require the vite server to run
 
-https://github.com/awais-vteams/laravel-crud-generator
+how to run
+
+```
+git clone https://github.com/Anuradha2k21/crud-generator
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+```
+
+source package: `https://github.com/awais-vteams/laravel-crud-generator`
