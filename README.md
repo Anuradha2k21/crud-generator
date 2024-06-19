@@ -63,9 +63,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-this does not support laravel 11, so laravel 10 used
+this does not support laravel 11, so laravel 10 used  
 might require the vite server to run
 
 how to run
