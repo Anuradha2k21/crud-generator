@@ -67,6 +67,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 this does not support laravel 11, so laravel 10 used  
 might require the vite server to run
+```
+npm i
+npm run dev
+```
 
 how to run
 
